@@ -1,4 +1,4 @@
-# Waving-Flag-of-Bangladesh-using-OpenGL
+# Waving Flag of Bangladesh using OpenGL
 
 Package used : "freeglut".
 
